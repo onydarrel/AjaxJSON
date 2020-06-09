@@ -1,0 +1,516 @@
+{
+    "data": [{
+            "id": "1",
+            "nama": "Tiger Nixon",
+            "posisi": "System Architect",
+            "gaji": "$320,800",
+            "molai_tgl": "2011/04/25",
+            "kantor": "Edinburgh",
+            "extn": "5421"
+        },
+        {
+            "id": "2",
+            "nama": "Garrett Winters",
+            "posisi": "Accountant",
+            "gaji": "$170,750",
+            "molai_tgl": "2011/07/25",
+            "kantor": "Tokyo",
+            "extn": "8422"
+        },
+        {
+            "id": "3",
+            "nama": "Ashton Cox",
+            "posisi": "Junior Technical Author",
+            "gaji": "$86,000",
+            "molai_tgl": "2009/01/12",
+            "kantor": "San Francisco",
+            "extn": "1562"
+        },
+        {
+            "id": "4",
+            "nama": "Cedric Kelly",
+            "posisi": "Senior Javascript Developer",
+            "gaji": "$433,060",
+            "molai_tgl": "2012/03/29",
+            "kantor": "Edinburgh",
+            "extn": "6224"
+        },
+        {
+            "id": "5",
+            "nama": "Airi Satou",
+            "posisi": "Accountant",
+            "gaji": "$162,700",
+            "molai_tgl": "2008/11/28",
+            "kantor": "Tokyo",
+            "extn": "5407"
+        },
+        {
+            "id": "6",
+            "nama": "Brielle Williamson",
+            "posisi": "Integration Specialist",
+            "gaji": "$372,000",
+            "molai_tgl": "2012/12/02",
+            "kantor": "New York",
+            "extn": "4804"
+        },
+        {
+            "id": "7",
+            "nama": "Herrod Chandler",
+            "posisi": "Sales Assistant",
+            "gaji": "$137,500",
+            "molai_tgl": "2012/08/06",
+            "kantor": "San Francisco",
+            "extn": "9608"
+        },
+        {
+            "id": "8",
+            "nama": "Rhona Davidson",
+            "posisi": "Integration Specialist",
+            "gaji": "$327,900",
+            "molai_tgl": "2010/10/14",
+            "kantor": "Tokyo",
+            "extn": "6200"
+        },
+        {
+            "id": "9",
+            "nama": "Colleen Hurst",
+            "posisi": "Javascript Developer",
+            "gaji": "$205,500",
+            "molai_tgl": "2009/09/15",
+            "kantor": "San Francisco",
+            "extn": "2360"
+        },
+        {
+            "id": "10",
+            "nama": "Sonya Frost",
+            "posisi": "Software Engineer",
+            "gaji": "$103,600",
+            "molai_tgl": "2008/12/13",
+            "kantor": "Edinburgh",
+            "extn": "1667"
+        },
+        {
+            "id": "11",
+            "nama": "Jena Gaines",
+            "posisi": "kantor Manager",
+            "gaji": "$90,560",
+            "molai_tgl": "2008/12/19",
+            "kantor": "London",
+            "extn": "3814"
+        },
+        {
+            "id": "12",
+            "nama": "Quinn Flynn",
+            "posisi": "Support Lead",
+            "gaji": "$342,000",
+            "molai_tgl": "2013/03/03",
+            "kantor": "Edinburgh",
+            "extn": "9497"
+        },
+        {
+            "id": "13",
+            "nama": "Charde Marshall",
+            "posisi": "Regional Director",
+            "gaji": "$470,600",
+            "molai_tgl": "2008/10/16",
+            "kantor": "San Francisco",
+            "extn": "6741"
+        },
+        {
+            "id": "14",
+            "nama": "Haley Kennedy",
+            "posisi": "Senior Marketing Designer",
+            "gaji": "$313,500",
+            "molai_tgl": "2012/12/18",
+            "kantor": "London",
+            "extn": "3597"
+        },
+        {
+            "id": "15",
+            "nama": "Tatyana Fitzpatrick",
+            "posisi": "Regional Director",
+            "gaji": "$385,750",
+            "molai_tgl": "2010/03/17",
+            "kantor": "London",
+            "extn": "1965"
+        },
+        {
+            "id": "16",
+            "nama": "Michael Silva",
+            "posisi": "Marketing Designer",
+            "gaji": "$198,500",
+            "molai_tgl": "2012/11/27",
+            "kantor": "London",
+            "extn": "1581"
+        },
+        {
+            "id": "17",
+            "nama": "Paul Byrd",
+            "posisi": "Chief Financial kantorr (CFO)",
+            "gaji": "$725,000",
+            "molai_tgl": "2010/06/09",
+            "kantor": "New York",
+            "extn": "3059"
+        },
+        {
+            "id": "18",
+            "nama": "Gloria Little",
+            "posisi": "Systems Administrator",
+            "gaji": "$237,500",
+            "molai_tgl": "2009/04/10",
+            "kantor": "New York",
+            "extn": "1721"
+        },
+        {
+            "id": "19",
+            "nama": "Bradley Greer",
+            "posisi": "Software Engineer",
+            "gaji": "$132,000",
+            "molai_tgl": "2012/10/13",
+            "kantor": "London",
+            "extn": "2558"
+        },
+        {
+            "id": "20",
+            "nama": "Dai Rios",
+            "posisi": "Personnel Lead",
+            "gaji": "$217,500",
+            "molai_tgl": "2012/09/26",
+            "kantor": "Edinburgh",
+            "extn": "2290"
+        },
+        {
+            "id": "21",
+            "nama": "Jenette Caldwell",
+            "posisi": "Development Lead",
+            "gaji": "$345,000",
+            "molai_tgl": "2011/09/03",
+            "kantor": "New York",
+            "extn": "1937"
+        },
+        {
+            "id": "22",
+            "nama": "Yuri Berry",
+            "posisi": "Chief Marketing kantorr (CMO)",
+            "gaji": "$675,000",
+            "molai_tgl": "2009/06/25",
+            "kantor": "New York",
+            "extn": "6154"
+        },
+        {
+            "id": "23",
+            "nama": "Caesar Vance",
+            "posisi": "Pre-Sales Support",
+            "gaji": "$106,450",
+            "molai_tgl": "2011/12/12",
+            "kantor": "New York",
+            "extn": "8330"
+        },
+        {
+            "id": "24",
+            "nama": "Doris Wilder",
+            "posisi": "Sales Assistant",
+            "gaji": "$85,600",
+            "molai_tgl": "2010/09/20",
+            "kantor": "Sydney",
+            "extn": "3023"
+        },
+        {
+            "id": "25",
+            "nama": "Angelica Ramos",
+            "posisi": "Chief Executive kantorr (CEO)",
+            "gaji": "$1,200,000",
+            "molai_tgl": "2009/10/09",
+            "kantor": "London",
+            "extn": "5797"
+        },
+        {
+            "id": "26",
+            "nama": "Gavin Joyce",
+            "posisi": "Developer",
+            "gaji": "$92,575",
+            "molai_tgl": "2010/12/22",
+            "kantor": "Edinburgh",
+            "extn": "8822"
+        },
+        {
+            "id": "27",
+            "nama": "Jennifer Chang",
+            "posisi": "Regional Director",
+            "gaji": "$357,650",
+            "molai_tgl": "2010/11/14",
+            "kantor": "Singapore",
+            "extn": "9239"
+        },
+        {
+            "id": "28",
+            "nama": "Brenden Wagner",
+            "posisi": "Software Engineer",
+            "gaji": "$206,850",
+            "molai_tgl": "2011/06/07",
+            "kantor": "San Francisco",
+            "extn": "1314"
+        },
+        {
+            "id": "29",
+            "nama": "Fiona Green",
+            "posisi": "Chief Operating kantorr (COO)",
+            "gaji": "$850,000",
+            "molai_tgl": "2010/03/11",
+            "kantor": "San Francisco",
+            "extn": "2947"
+        },
+        {
+            "id": "30",
+            "nama": "Shou Itou",
+            "posisi": "Regional Marketing",
+            "gaji": "$163,000",
+            "molai_tgl": "2011/08/14",
+            "kantor": "Tokyo",
+            "extn": "8899"
+        },
+        {
+            "id": "31",
+            "nama": "Michelle House",
+            "posisi": "Integration Specialist",
+            "gaji": "$95,400",
+            "molai_tgl": "2011/06/02",
+            "kantor": "Sydney",
+            "extn": "2769"
+        },
+        {
+            "id": "32",
+            "nama": "Suki Burks",
+            "posisi": "Developer",
+            "gaji": "$114,500",
+            "molai_tgl": "2009/10/22",
+            "kantor": "London",
+            "extn": "6832"
+        },
+        {
+            "id": "33",
+            "nama": "Prescott Bartlett",
+            "posisi": "Technical Author",
+            "gaji": "$145,000",
+            "molai_tgl": "2011/05/07",
+            "kantor": "London",
+            "extn": "3606"
+        },
+        {
+            "id": "34",
+            "nama": "Gavin Cortez",
+            "posisi": "Team Leader",
+            "gaji": "$235,500",
+            "molai_tgl": "2008/10/26",
+            "kantor": "San Francisco",
+            "extn": "2860"
+        },
+        {
+            "id": "35",
+            "nama": "Martena Mccray",
+            "posisi": "Post-Sales support",
+            "gaji": "$324,050",
+            "molai_tgl": "2011/03/09",
+            "kantor": "Edinburgh",
+            "extn": "8240"
+        },
+        {
+            "id": "36",
+            "nama": "Unity Butler",
+            "posisi": "Marketing Designer",
+            "gaji": "$85,675",
+            "molai_tgl": "2009/12/09",
+            "kantor": "San Francisco",
+            "extn": "5384"
+        },
+        {
+            "id": "37",
+            "nama": "Howard Hatfield",
+            "posisi": "kantor Manager",
+            "gaji": "$164,500",
+            "molai_tgl": "2008/12/16",
+            "kantor": "San Francisco",
+            "extn": "7031"
+        },
+        {
+            "id": "38",
+            "nama": "Hope Fuentes",
+            "posisi": "Secretary",
+            "gaji": "$109,850",
+            "molai_tgl": "2010/02/12",
+            "kantor": "San Francisco",
+            "extn": "6318"
+        },
+        {
+            "id": "39",
+            "nama": "Vivian Harrell",
+            "posisi": "Financial Controller",
+            "gaji": "$452,500",
+            "molai_tgl": "2009/02/14",
+            "kantor": "San Francisco",
+            "extn": "9422"
+        },
+        {
+            "id": "40",
+            "nama": "Timothy Mooney",
+            "posisi": "kantor Manager",
+            "gaji": "$136,200",
+            "molai_tgl": "2008/12/11",
+            "kantor": "London",
+            "extn": "7580"
+        },
+        {
+            "id": "41",
+            "nama": "Jackson Bradshaw",
+            "posisi": "Director",
+            "gaji": "$645,750",
+            "molai_tgl": "2008/09/26",
+            "kantor": "New York",
+            "extn": "1042"
+        },
+        {
+            "id": "42",
+            "nama": "Olivia Liang",
+            "posisi": "Support Engineer",
+            "gaji": "$234,500",
+            "molai_tgl": "2011/02/03",
+            "kantor": "Singapore",
+            "extn": "2120"
+        },
+        {
+            "id": "43",
+            "nama": "Bruno Nash",
+            "posisi": "Software Engineer",
+            "gaji": "$163,500",
+            "molai_tgl": "2011/05/03",
+            "kantor": "London",
+            "extn": "6222"
+        },
+        {
+            "id": "44",
+            "nama": "Sakura Yamamoto",
+            "posisi": "Support Engineer",
+            "gaji": "$139,575",
+            "molai_tgl": "2009/08/19",
+            "kantor": "Tokyo",
+            "extn": "9383"
+        },
+        {
+            "id": "45",
+            "nama": "Thor Walton",
+            "posisi": "Developer",
+            "gaji": "$98,540",
+            "molai_tgl": "2013/08/11",
+            "kantor": "New York",
+            "extn": "8327"
+        },
+        {
+            "id": "46",
+            "nama": "Finn Camacho",
+            "posisi": "Support Engineer",
+            "gaji": "$87,500",
+            "molai_tgl": "2009/07/07",
+            "kantor": "San Francisco",
+            "extn": "2927"
+        },
+        {
+            "id": "47",
+            "nama": "Serge Baldwin",
+            "posisi": "Data Coordinator",
+            "gaji": "$138,575",
+            "molai_tgl": "2012/04/09",
+            "kantor": "Singapore",
+            "extn": "8352"
+        },
+        {
+            "id": "48",
+            "nama": "Zenaida Frank",
+            "posisi": "Software Engineer",
+            "gaji": "$125,250",
+            "molai_tgl": "2010/01/04",
+            "kantor": "New York",
+            "extn": "7439"
+        },
+        {
+            "id": "49",
+            "nama": "Zorita Serrano",
+            "posisi": "Software Engineer",
+            "gaji": "$115,000",
+            "molai_tgl": "2012/06/01",
+            "kantor": "San Francisco",
+            "extn": "4389"
+        },
+        {
+            "id": "50",
+            "nama": "Jennifer Acosta",
+            "posisi": "Junior Javascript Developer",
+            "gaji": "$75,650",
+            "molai_tgl": "2013/02/01",
+            "kantor": "Edinburgh",
+            "extn": "3431"
+        },
+        {
+            "id": "51",
+            "nama": "Cara Stevens",
+            "posisi": "Sales Assistant",
+            "gaji": "$145,600",
+            "molai_tgl": "2011/12/06",
+            "kantor": "New York",
+            "extn": "3990"
+        },
+        {
+            "id": "52",
+            "nama": "Hermione Butler",
+            "posisi": "Regional Director",
+            "gaji": "$356,250",
+            "molai_tgl": "2011/03/21",
+            "kantor": "London",
+            "extn": "1016"
+        },
+        {
+            "id": "53",
+            "nama": "Lael Greer",
+            "posisi": "Systems Administrator",
+            "gaji": "$103,500",
+            "molai_tgl": "2009/02/27",
+            "kantor": "London",
+            "extn": "6733"
+        },
+        {
+            "id": "54",
+            "nama": "Jonas Alexander",
+            "posisi": "Developer",
+            "gaji": "$86,500",
+            "molai_tgl": "2010/07/14",
+            "kantor": "San Francisco",
+            "extn": "8196"
+        },
+        {
+            "id": "55",
+            "nama": "Shad Decker",
+            "posisi": "Regional Director",
+            "gaji": "$183,000",
+            "molai_tgl": "2008/11/13",
+            "kantor": "Edinburgh",
+            "extn": "6373"
+        },
+        {
+            "id": "56",
+            "nama": "Michael Bruce",
+            "posisi": "Javascript Developer",
+            "gaji": "$183,000",
+            "molai_tgl": "2011/06/27",
+            "kantor": "Singapore",
+            "extn": "5384"
+        },
+        {
+            "id": "57",
+            "nama": "Donna Snider",
+            "posisi": "Customer Support",
+            "gaji": "$112,000",
+            "molai_tgl": "2011/01/25",
+            "kantor": "New York",
+            "extn": "4226"
+        }
+    ]
+}
