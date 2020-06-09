@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Ajax JSON dengan Datatables</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css">
+    <link rel="shortcut icon" href="aku.png" type="image/x-icon">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Ajax JSON dengan Datatables</h1>
+        <table id="example" class="display" style="width:100%">
+            <thead>
+                <tr>
+                    <th>Nama</th>
+                    <th>Posisi</th>
+                    <th>Kantor</th>
+                    <th>Extn.</th>
+                    <th>Start tanggal</th>
+                    <th>Gaji</th>
+                </tr>
+            </thead>
+            <tfoot>
+                <tr>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                    <th>.</th>
+                    <th>Total</th>
+                    <th>1000</th>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <!-- <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js""></script> -->
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+    <script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('#example').DataTable({
+                "ajax": "data.json",
+                "columns": [{
+                    "data": "nama"
+                }, {
+                    "data": "posisi"
+                }, {
+                    "data": "kantor"
+                }, {
+                    "data": "extn"
+                }, {
+                    "data": "molai_tgl"
+                }, {
+                    "data": "gaji"
+                }]
+            });
+        });
+    </script>
+</body>
+
+</html>
