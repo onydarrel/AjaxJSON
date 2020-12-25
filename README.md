@@ -2,4 +2,4 @@
 
 Ajax JSON dengan Datatables
 
-<a href="https://onydarrel.github.io/AjaxJSON/">Demo</a>
+<a href="https://onysu.github.io/AjaxJSON/">Demo</a>
